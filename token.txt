@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+
 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
 
-manu: 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
-=======
+token manu: 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
+token camila: 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
+token jonathan: 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
 marti: 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
->>>>>>> 2eed6e0462ca3fd9771e1dc221bbaf8a75fe15a7
+
